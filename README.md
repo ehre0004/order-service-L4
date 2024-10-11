@@ -6,7 +6,7 @@ The Order Service is a backend service that receives orders from the store-front
 
 - Node.js
 - npm
-- RabbitMQ
+- RabbitMQ *
 
 ## Setup Instructions
 1. Update the package list:
